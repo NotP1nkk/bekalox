@@ -1,5 +1,9 @@
 test1111
+<<<<<<< HEAD
 test1, test2
+=======
+test1, test2 test23
+>>>>>>> f3501466a1ddf1db7301abc1ef4cd80547be27b4
 bekalox
 beka+miko
 miko polni lox
