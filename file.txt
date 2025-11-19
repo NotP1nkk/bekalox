@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 test1
 test2
 test3
@@ -5,3 +6,13 @@ test4
 test5
 test6
 test7
+=======
+test1111
+<<<<<<< HEAD
+test1, test2
+=======
+test1, test2 test23
+bekalox
+beka+miko
+miko polni lox
+>>>>>>> e1673e5c1e2c3a9f5233166d3ca87df8546d4346
